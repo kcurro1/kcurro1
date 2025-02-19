@@ -2,14 +2,13 @@
 # Data Science and Biology Student at Loyola University Chicago
 
 ## Projects
-
-## Relevant Coursework
-
 ### Identifying Diabetic Retinopathy with Machine Learning
 ### Quixx Simulation
 ###
 ###
 ###
+
+## Relevant Coursework
 
 ### Computer Science
 * Machine Learning <br/>
