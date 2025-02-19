@@ -1,12 +1,16 @@
 ## Hi, I'm Katherine! 
 # Data Science and Biology Student at Loyola University Chicago
 
+Master of Data Science (Anticipated May 2026) <br/>
+Bachelor of Data Sciene (Anticipated May 2025) <br/>
+Bachelor of Biology (Anticipated May 2025) <br/>
+
 ## Projects
 ### Identifying Diabetic Retinopathy with Machine Learning
 ### Quixx Simulation
-###
-###
-###
+### Genome Transcription Using Biopython
+### American Red Cross Database Simulation
+### Spotify Trends Analysis
 
 ## Relevant Coursework
 
