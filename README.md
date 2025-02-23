@@ -21,10 +21,10 @@ Qwixx Dice Game is a board game that is based on dice rolls and strategic decisi
 
 [Project Repository](https://github.com/kcurro1/Qwixx-Simulation)
 
-### Spotify Trends Analysis
-For my final project in the Fundamentals of R course at Loyola, I combined my love for music with data analysis by exploring notable trends in Spotify's user activity dataset through data visualization and manipulation in R.
+### Spotify and YouTube Trends Analysis
+For my final project in the Fundamentals of R course at Loyola, I combined my love for music with data analysis by exploring notable trends in both Youtube and Spotify's user activity dataset by using data visualization and manipulation in R.
 
-REPO
+[Project Repository](https://github.com/kcurro1/Spotify-Analysis/tree/main)
 
 ## Relevant Coursework
 
