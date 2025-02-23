@@ -9,7 +9,7 @@ Bachelor of Biology (Anticipated May 2025) <br/>
 ### Identifying Diabetic Retinopathy with Machine Learning
 Diabetic retinopathy is a leading cause of vision impairment and blindness among individuals with diabetes. Early detection is crucial in preventing the progression of this condition, as symptoms often do not appear until the disease has reached an advanced stage. This project aims to develop a machine learning model capable of detecting diabetic retinopathy from retinal scans. The goal is to improve diagnostic accuracy, enable early intervention, and ultimately enhance patient outcomes.
 
-REPO
+[Project Repository](https://github.com/kcurro1/Identifying-Diabetic-Retinopathy-with-Machine-Learning)
 
 ### Qwixx Simulation
 Qwixx Dice Game is a board game that is based on dice rolls and strategic decision-making. This project aims to determine the most effective strategy for maximizing a player's chances of winning while examining the probabilistic nature of outcomes and overall strategy effectiveness. By using Monte Carlo simulations to estimate expected scores, game length distributions, and the impact of different player strategies, we identified the optimal approach for Qwixx and assessed the role that randomness plays in determining success.
