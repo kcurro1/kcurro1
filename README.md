@@ -11,17 +11,15 @@ Diabetic retinopathy is a leading cause of vision impairment and blindness among
 
 [Project Repository](https://github.com/kcurro1/Identifying-Diabetic-Retinopathy-with-Machine-Learning)
 
+### American Red Cross Database Simulation
+The American Red Cross is a non-profit organization that focuses on blood donation and disaster relief. This project focuses on designing and implementing a donor database for the American Red Cross to track donations efficiently. We created an Entity-Relationship (ER) diagram, defined constraints, and developed a relational schema. After creating our database, we implemented queries to analyze donor activity, allocation of funds, and branch contributions, and we translated this structure into an ORM implementation with SQLAlchemy. 
+
+[Project Repository](https://github.com/kcurro1/American-Red-Cross-Database)
+
 ### Qwixx Simulation
 Qwixx Dice Game is a board game that is based on dice rolls and strategic decision-making. This project aims to determine the most effective strategy for maximizing a player's chances of winning while examining the probabilistic nature of outcomes and overall strategy effectiveness. By using Monte Carlo simulations to estimate expected scores, game length distributions, and the impact of different player strategies, we identified the optimal approach for Qwixx and assessed the role that randomness plays in determining success.
 
 [Project Repository](https://github.com/kcurro1/Qwixx-Simulation)
-
-### Genome Transcription Using Biopython
-
-### American Red Cross Database Simulation
-The American Red Cross is a non-profit organization that focuses on blood donation and disaster relief. This project focuses on designing and implementing a donor database for the American Red Cross to track donations efficiently. We created an Entity-Relationship (ER) diagram, defined constraints, and developed a relational schema. After creating our database, we implemented queries to analyze donor activity, allocation of funds, and branch contributions, and we translated this structure into an ORM implementation with SQLAlchemy. 
-
-REPO
 
 ### Spotify Trends Analysis
 For my final project in the Fundamentals of R course at Loyola, I combined my love for music with data analysis by exploring notable trends in Spotify's user activity dataset through data visualization and manipulation in R.
