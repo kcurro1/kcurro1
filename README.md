@@ -1,9 +1,8 @@
 ## Hi, I'm Katherine! 
 # Data Science and Biology Student at Loyola University Chicago
 
-Master of Data Science (Anticipated May 2026) <br/>
-Bachelor of Data Sciene (Anticipated May 2025) <br/>
-Bachelor of Biology (Anticipated May 2025) <br/>
+Master of Data Science *(Anticipated May 2026)*  <br/>
+Bachelor of Data Science & Bachelor of Biology *(Anticipated May 2025)*  <br/>
 
 ## Projects
 ### Identifying Diabetic Retinopathy with Machine Learning
@@ -53,6 +52,14 @@ For my final project in the Fundamentals of R course at Loyola, I combined my lo
 * Bioinformatics <br/>
 
 ## Awards & Publications
+
+### [Inducible Reporter Lines for Tissue-specific Monitoring of Drosophila Circadian Clock Transcriptional Activity](https://pubmed.ncbi.nlm.nih.gov/36495136/)
+
+In Dr. Cavanaugh's lab, I helped develop new fruit fly lines used to monitor the activity of circadian clock genes in specific tissues. These flies produce a light-emitting enzyme, luciferase, in targeted tissues, enabling real-time observation of gene activity. This advancement allowed us to better understand how gene regulation is coordinated across different tissues.
+
+### [Women in Science Enabling Research (WISER) Fellowship](https://www.luc.edu/gannon/wiser.shtml)
+
+The WISER program at Loyola University Chicago supports undergraduate women in STEM by providing research opportunities and mentorship. It fosters a community where students can gain hands-on experience, develop scientific skills, and explore careers in research. I recieved this fellowhip for the 2022-2023 academic school year, allowing me to work and learn in a labratory on campus.
 
 ## Personal Interests
   
