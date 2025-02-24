@@ -59,9 +59,8 @@ In Dr. Cavanaugh's lab, I helped develop new fruit fly lines used to monitor the
 
 ### [Women in Science Enabling Research (WISER) Fellowship](https://www.luc.edu/gannon/wiser.shtml)
 
-The WISER program at Loyola University Chicago supports undergraduate women in STEM by providing research opportunities and mentorship. It fosters a community where students can gain hands-on experience, develop scientific skills, and explore careers in research. I recieved this fellowhip for the 2022-2023 academic school year, allowing me to work and learn in a labratory on campus.
+The WISER program at Loyola University Chicago supports undergraduate women in STEM by providing research opportunities and mentorship. It fosters a community where students can gain hands-on experience, develop scientific skills, and explore careers in research. I recieved this fellowship for the 2022-2023 academic school year, allowing me to work and learn in a labratory on campus.
 
-## Personal Interests
   
 
 
